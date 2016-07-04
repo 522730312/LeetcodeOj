@@ -12,10 +12,6 @@ public class Main {
         so75.sortColors(nums);
         IteratorArrays(nums);
 
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
+        System.out.print(1);
     }
 }
