@@ -3,6 +3,6 @@
  */
 public class SortColor75 {
     public void sortColors(int[] nums) {
-
+        int t=1;
     }
 }
